@@ -10,14 +10,14 @@ body:
       value: "Please provide a summary."
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: outcome
     attributes:
       label: Intended Outcome
       value: "Please specify the intended outcome."
     validations:
       required: true
-    - type: textarea
+  - type: textarea
     id: function
     attributes:
       label: How will it work?
