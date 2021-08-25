@@ -21,6 +21,6 @@ body:
     id: function
     attributes:
       label: How will it work?
-      value: "Please explain how it will work."
+      placeholder: "Please explain how it will work."
     validations:
       required: true
